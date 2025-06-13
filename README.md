@@ -75,8 +75,8 @@ To set up and run components of this project:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/YourGitHubUsername/KSU-Event-API-and-Event-SCRAPER.git](https://github.com/YourGitHubUsername/KSU-Event-API-and-Event-SCRAPER.git)
-    cd KSU-Event-API-and-Event-SCRAPER
+    git clone [https://github.com/SP-32-Event-Tracker-App/KSU_Event_API.git](https://github.com/SP-32-Event-Tracker-App/KSU_Event_API.git)
+    cd KSU_Event_API
     ```
 
 2.  **Python Environment:**
