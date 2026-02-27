@@ -136,7 +136,7 @@ Once the API is running, you can access the interactive API documentation at htt
 Future Enhancements
 -------------------
 
-*   **Event Tracking Application:** Develop a front-end application (web or mobile) that consumes the KSU-Event-API to provide a user-friendly interface for tracking, searching, and filtering events.
+*   **Event Tracking Application:** Develop a front-end application (web or mobile) that consumes the KSU-Event-API to provide a user-friendly interface for tracking, searching, and filtering events. (mobile version exists)
     
 *   **Advanced Filtering & Search:** Implement more sophisticated search capabilities within the API (e.g., by date range, category, keyword).
     
