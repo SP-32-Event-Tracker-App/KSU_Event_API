@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project comprises a set of interconnected applications designed to **automate the collection, storage, and retrieval of event data from the KSU Events Website**. The primary goal is to build a robust system for **tracking events**, providing structured access to this information through APIs. This initiative demonstrates an end-to-end data pipeline, from web scraping and data persistence to API development for data consumption.
+This project is a set of interconnected applications designed to **automate the collection, storage, and retrieval of event data from the KSU Events Website**. The primary goal is to build a robust system for **tracking events**, providing structured access to this information through APIs. This initiative demonstrates an end-to-end data pipeline, from web scraping and data persistence to API development for data consumption.
 
 The system is engineered to provide reliable and timely access to event information, which can serve as a foundation for various event-tracking applications or analytical tools.
 
